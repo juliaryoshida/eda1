@@ -1,2 +1,3 @@
-# EDA1
-Estrutura de dados 1 - UnB 2023/2
+# Estrutura de Dados
+
+Repositório destinado aos exercícios de EDA 1 e EDA 2. 
